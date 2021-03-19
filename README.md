@@ -15,7 +15,7 @@ Hardware requirements:
 * jumper wire
 * 12 v or more battery
 * Objective C Code
-*<img src="image/Obstacle avoiding robotic car.jpg">
+*<img src="image/Obstacle avoiding robotic car.jpg" width=500 align=center>
 * Arduino
 Arduino is an open-source electronics platform based on easy-to-use
 hardware and software. Arduino boards are able to read inputs - light on
